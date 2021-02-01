@@ -1,3 +1,5 @@
+### 项目已迁移至新仓库：[googlehosts/hosts](https://github.com/googlehosts/hosts)，本仓库不再更新，开新Issues/Pull requests请前往新仓库，谢谢。
+
 [![doodle]][doodle-story]
 
 [doodle]: https://www.google.com/logos/doodles/2015/holidays-2015-day-3-6399865393250304-hp2x.jpg "春节快乐!"
